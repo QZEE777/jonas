@@ -14,5 +14,7 @@
     "gmail",
     "inbox",
     "email-helper"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://simplifaid.online/privacy"
 }
