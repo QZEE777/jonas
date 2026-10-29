@@ -16,5 +16,9 @@
     "email-helper"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://simplifaid.online/privacy"
+  "privacyPolicyUrl": "https://simplifaid.online/privacy",
+  "repository": "https://github.com/QZEE777/jonas",
+  "documentationUrl": "https://simplifaid.online/how-it-works",
+  "supportUrl": "https://simplifaid.online/help",
+  "termsOfServiceUrl": "https://simplifaid.online/terms"
 }
