@@ -18,6 +18,8 @@ You sign in to the connector once, with the email address you signed up with and
 - **Sends to SimplifAId:** your sign-in email address and the name of the Jonas job being run (for example `morning-summary`). Nothing else. Your email content, contacts and messages never go to SimplifAId.
 - **Fetches from SimplifAId:** Jonas's written instructions for the job (plain text), through two read-only tools, `get_jonas_job` and `get_jonas_file`.
 - **Uses in Claude:** your own Gmail and Google Calendar connectors, which you connect yourself. Jonas reads and tidies your mail there, inside your Claude account.
+- **Public information Jonas looks up:** the weather for your town (Open-Meteo, open-meteo.com), local and business news headlines (Google News), coin prices if you ask for price alerts (CoinGecko, api.coingecko.com), and Claude's web search for news and job openings. Only a town name, a coin name or a search phrase goes out; never your emails, contacts or messages.
+- **What Jonas keeps:** short notes about your setup and preferences, and your receipts list, saved in your own Claude workspace (or your own computer folder or Google Drive, if you choose). SimplifAId keeps only your sign-up email and your trial or subscription dates.
 
 Privacy policy: https://simplifaid.online/privacy · Terms: https://simplifaid.online/terms
 
