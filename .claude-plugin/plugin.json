@@ -1,0 +1,18 @@
+{
+  "name": "jonas",
+  "displayName": "Jonas by SimplifAId",
+  "version": "0.9.0",
+  "description": "Jonas, your email helper. Say \"Hello Jonas\" to meet him. He asks before he looks at anything, sets himself up in a few simple questions, then tidies your Gmail every morning, reminds you of what's on today, and helps you look after your customers. He sends nothing without your yes.",
+  "author": {
+    "name": "SimplifAId",
+    "url": "https://simplifaid.online"
+  },
+  "homepage": "https://simplifaid.online/how-it-works",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "email",
+    "gmail",
+    "inbox",
+    "email-helper"
+  ]
+}
